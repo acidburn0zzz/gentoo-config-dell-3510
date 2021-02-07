@@ -5,7 +5,7 @@ path=`dirname $0`
 cd "$path"
 
 # On défini les variables
-#gitrepo="git@github.com:aaaaadrien/gentoo-config.git"
+#gitrepo="git@github.com:aaaaadrien/gentoo-config-dell-3510.git"
 package="etc/portage/package."
 jour=$(date +"%d-%m-%Y")
 heure=$(date +"%H:%M:%S")
