@@ -1,0 +1,1 @@
+# gentoo-config-dell-3510
