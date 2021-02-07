@@ -13,6 +13,7 @@ media-fonts/droid
 media-libs/alsa-lib
 media-sound/alsa-utils
 net-misc/dhcpcd
+net-misc/ntp
 net-wireless/wpa_supplicant
 sys-apps/inxi
 sys-apps/lm-sensors

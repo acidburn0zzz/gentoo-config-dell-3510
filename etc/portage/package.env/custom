@@ -1,0 +1,3 @@
+net-libs/webkit-gtk make-j6-l6.conf
+dev-qt/qtwebengine make-j6.conf
+www-client/chromium chromium.conf
