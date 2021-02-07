@@ -1,1 +1,4 @@
 app-admin/rsyslog -ssl
+
+# Neofetch
+www-client/w3m imlib

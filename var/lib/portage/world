@@ -2,6 +2,7 @@ app-admin/logrotate
 app-admin/rsyslog
 app-editors/vim
 app-eselect/eselect-repository
+app-misc/neofetch
 app-misc/screen
 app-portage/eix
 app-portage/gentoolkit
@@ -9,10 +10,17 @@ app-portage/portage-utils
 app-shells/bash-completion
 app-shells/gentoo-bashcomp
 dev-vcs/git
+gnome-base/gdm
+gnome-base/gnome-core-apps
+gnome-base/gnome-light
 media-fonts/droid
 media-libs/alsa-lib
+media-plugins/alsa-plugins
 media-sound/alsa-utils
+media-sound/pavucontrol
+media-sound/pulseaudio
 net-misc/dhcpcd
+net-misc/networkmanager
 net-misc/ntp
 net-wireless/wpa_supplicant
 sys-apps/inxi
@@ -27,6 +35,8 @@ sys-kernel/linux-firmware
 sys-process/cronie
 sys-process/htop
 sys-process/nmon
+www-client/google-chrome
+www-client/vivaldi-snapshot
 x11-base/xorg-drivers
 x11-base/xorg-server
 x11-base/xorg-x11
