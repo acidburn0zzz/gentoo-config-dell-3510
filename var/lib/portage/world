@@ -13,6 +13,8 @@ dev-vcs/git
 gnome-base/gdm
 gnome-base/gnome-core-apps
 gnome-base/gnome-light
+gnome-extra/gnome-shell-extension-dash-to-dock
+gnome-extra/gnome-tweaks
 media-fonts/droid
 media-libs/alsa-lib
 media-plugins/alsa-plugins
