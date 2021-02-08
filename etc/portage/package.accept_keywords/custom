@@ -3,3 +3,6 @@ www-client/vivaldi-snapshot
 
 # Google Chrome
 www-client/google-chrome
+
+# OBS Studio
+media-video/obs-studio

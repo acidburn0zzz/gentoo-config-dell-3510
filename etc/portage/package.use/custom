@@ -1,4 +1,26 @@
+# COMPRESSION MULTITHREAD
+app-arch/lbzip2 symlink
+app-arch/pigz symlink
+
+# GUAKE
+x11-libs/vte python
+
+# Rsyslog
 app-admin/rsyslog -ssl
 
 # Neofetch
 www-client/w3m imlib
+
+# Kdenlive
+media-libs/mlt frei0r ffmpeg
+
+# Mixxx
+media-sound/mixxx shout hid
+dev-qt/qtscript scripttools
+
+# Keepass
+app-admin/keepassxc browser autotype
+
+# REMMINA
+net-misc/remmina rdp vnc
+
