@@ -24,3 +24,6 @@ app-admin/keepassxc browser autotype
 # REMMINA
 net-misc/remmina rdp vnc
 
+#fwupd
+dev-libs/libjcat gpg pkcs7
+sys-apps/fwupd dell uefi synaptics tpm nvme thunderbolt

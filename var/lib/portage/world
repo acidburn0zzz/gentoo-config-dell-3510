@@ -28,6 +28,7 @@ media-sound/mixxx
 media-sound/pavucontrol
 media-sound/pulseaudio
 media-sound/soundconverter
+media-video/cheese
 media-video/obs-studio
 net-misc/dhcpcd
 net-misc/networkmanager
@@ -35,6 +36,7 @@ net-misc/ntp
 net-misc/remmina
 net-wireless/wpa_supplicant
 sci-calculators/galculator
+sys-apps/fwupd
 sys-apps/gnome-disk-utility
 sys-apps/inxi
 sys-apps/lm-sensors
