@@ -30,6 +30,7 @@ media-sound/pulseaudio
 media-sound/soundconverter
 media-video/cheese
 media-video/obs-studio
+media-video/smplayer
 net-misc/dhcpcd
 net-misc/networkmanager
 net-misc/ntp
@@ -38,6 +39,8 @@ net-wireless/wpa_supplicant
 sci-calculators/galculator
 sys-apps/fwupd
 sys-apps/gnome-disk-utility
+sys-apps/i2c-tools
+sys-apps/input-utils
 sys-apps/inxi
 sys-apps/lm-sensors
 sys-apps/pciutils
@@ -45,6 +48,7 @@ sys-apps/usbutils
 sys-boot/grub
 sys-fs/lvm2
 sys-kernel/dracut
+sys-kernel/gentoo-kernel-bin
 sys-kernel/gentoo-sources
 sys-kernel/linux-firmware
 sys-process/cronie
@@ -55,3 +59,5 @@ www-client/vivaldi-snapshot
 x11-base/xorg-drivers
 x11-base/xorg-server
 x11-base/xorg-x11
+x11-terms/guake
+x11-themes/QGnomePlatform

@@ -1,3 +1,6 @@
+# Kernel
+#<sys-kernel/gentoo-sources-5.10.999
+
 # Vivaldi
 www-client/vivaldi-snapshot
 
@@ -6,3 +9,4 @@ www-client/google-chrome
 
 # OBS Studio
 media-video/obs-studio
+
