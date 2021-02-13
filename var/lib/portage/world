@@ -1,3 +1,4 @@
+app-admin/eclean-kernel
 app-admin/logrotate
 app-admin/rsyslog
 app-editors/vim
@@ -37,6 +38,7 @@ net-misc/ntp
 net-misc/remmina
 net-wireless/wpa_supplicant
 sci-calculators/galculator
+sys-apps/flatpak
 sys-apps/fwupd
 sys-apps/gnome-disk-utility
 sys-apps/i2c-tools
@@ -48,7 +50,6 @@ sys-apps/usbutils
 sys-boot/grub
 sys-fs/lvm2
 sys-kernel/dracut
-sys-kernel/gentoo-kernel-bin
 sys-kernel/gentoo-sources
 sys-kernel/linux-firmware
 sys-process/cronie
@@ -56,6 +57,7 @@ sys-process/htop
 sys-process/nmon
 www-client/google-chrome
 www-client/vivaldi-snapshot
+www-misc/get-ffmpeg-vivaldi
 x11-base/xorg-drivers
 x11-base/xorg-server
 x11-base/xorg-x11

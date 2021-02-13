@@ -11,6 +11,13 @@ app-admin/rsyslog -ssl
 # Neofetch
 www-client/w3m imlib
 
+# Vivaldi
+www-client/vivaldi-snapshot widevine proprietary-codecs
+www-client/vivaldi widevine proprietary-codecs
+
+# FFMPEG
+media-video/ffmpeg chromium
+
 # Kdenlive
 media-libs/mlt frei0r ffmpeg
 
@@ -27,3 +34,6 @@ net-misc/remmina rdp vnc
 #fwupd
 dev-libs/libjcat gpg pkcs7
 sys-apps/fwupd dell uefi synaptics tpm nvme thunderbolt
+
+# Flatpak
+dev-util/ostree curl
